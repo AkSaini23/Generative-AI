@@ -1,0 +1,12 @@
+# Generative AI Course Assignments
+
+This repository contains assignments completed during my Master’s course on **Generative AI**. These projects showcase hands-on work with a variety of generative models and techniques.
+
+## Topics Covered
+
+- **Autoencoders (AE)** 
+- **Variational Autoencoders (VAE)** 
+- **Generative AI (GenAI)** 
+- **Score-Based Generative Models**
+- **Diffusion Models** 
+- **Generative Adversarial Networks (GANs)**
